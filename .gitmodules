@@ -10,3 +10,6 @@
 [submodule "4mics"]
 	path = 4mics
 	url = https://github.com/respeaker/4mics_hat
+[submodule "unity-voice-processor"]
+	path = unity-voice-processor
+	url = https://github.com/Picovoice/unity-voice-processor
