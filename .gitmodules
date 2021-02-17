@@ -1,0 +1,12 @@
+[submodule "seeed"]
+	path = seeed
+	url = https://github.com/respeaker/seeed-voicecard
+[submodule "porcupine"]
+	path = porcupine
+	url = https://github.com/Picovoice/porcupine
+[submodule "picovoice"]
+	path = picovoice
+	url = https://github.com/Picovoice/picovoice
+[submodule "4mics"]
+	path = 4mics
+	url = https://github.com/respeaker/4mics_hat
